@@ -3,8 +3,4 @@ ce quizz, j'ai choisis un modèle simple, je me suis plutôt concentrer sur le f
 peut y retrouvé 10 questions et à la fin on y retrouve le score du quiz en fonction de bonne réponse eut.
 Voici la maquette que j'ai décidé de faire :
 
-<<<<<<< HEAD
-![A cat](/files/Figma.png)
-=======
-![Figma](/files/readme.jpg)
->>>>>>> 69296a31ccac1b5c7faa0cf7038fec4f54ea5bc1
+![Figma](/https://github.com/Idravis69/CR7Quiz/blob/master/Figma.png?raw=true)
